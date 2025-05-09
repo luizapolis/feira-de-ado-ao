@@ -1,4 +1,13 @@
 cabecalho{
     background-color:rgb(173, 94, 197);
-    color:rgb(144, 216, 216)
+    color:rgb(144, 216, 216);
+display: flex;
+justify-content: space-around;
+padding: 240px 0;
+font-size: 50px;
+}
+.cabecaalhoListaItem{
+    display:inline-block;
+    margin:0 120px;
+padding: 78px 0;
 }
