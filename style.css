@@ -3,7 +3,7 @@
 }
 
 .cabecalho{
-    background-color:rgb(221, 120, 252);
+    background-color:rgb(212, 117, 241);
     color:rgb(49, 47, 47);
     display: flex;
     justify-content: space-between;
@@ -18,22 +18,22 @@
 }
 
 .sobreImagem{
-           width:
+           width:60px;
 }
 
 .sobre{
-        background-image: linear gradient(#FFFFFF. #FFFFFF);
-        color: orange;
+        background-image: linear-gradient(#d87bfd, #cf9ae4);
+        color: rgb(8, 8, 8);
         display: flex;
         justify-content: center;
        align-items: center;
-       padding: 370px 0;
+       padding: 90px 0;
 }
 
 .sobreConteudo{
-        width:
+        width:550px;
 }
 
 .sobreTitulo{
-         padding: 100px 50px;
+         padding: 30px 250px;
 }
