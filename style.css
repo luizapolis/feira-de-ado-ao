@@ -2,8 +2,12 @@
    padding:0;
 }
 
+.adocao{
+    width: 90px ;  
+}
+
 .cabecalho{
-    background-color:rgb(214, 123, 250);
+    background-color:rgb(215, 126, 250);
     color:rgb(49, 47, 47);
     display: flex;
     justify-content: space-between;
@@ -22,7 +26,7 @@
 }
 
 .sobre{
-        background-image: linear-gradient(#d67ef8, #cf9ae4);
+        background-image: linear-gradient(#d783f8, #e2a5fa);
         color: rgb(8, 8, 8);
         display: flex;
         justify-content: center;
